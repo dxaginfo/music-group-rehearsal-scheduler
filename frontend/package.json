@@ -1,0 +1,17 @@
+{
+  "name": "rehearsal-scheduler-frontend",
+  "version": "1.0.0",
+  "description": "React frontend for Rehearsal Scheduler App",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0",
+    "@mui/material": "^5.0.0"
+  }
+}
